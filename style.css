@@ -1,0 +1,236 @@
+* {
+  margin-right: auto;
+  margin-left: auto;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(bg-image.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+header {
+  width: 1360px px;
+  height: 48px;
+  display: flex;
+}
+
+nav {
+  display: flex;
+  display: flex;
+  justify-content: space-between;
+}
+
+.links_header {
+  display: flex;
+  justify-content: space-between;
+  width: 1129px;
+  height: 43px;
+}
+
+.links_header a {
+  flex: 1;
+  text-align: center;
+  margin-top: 16px;
+  text-decoration: none;
+  color: #ffffff;
+  font-family: Poppins;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 62px;
+  margin-top: 230px;
+  margin-left: 250px;
+}
+
+.button {
+  width: 272px;
+  height: 72px;
+  border-radius: 12px;
+  color: #ffffff;
+  background-color: #7b61ff;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 11px;
+  justify-self: center;
+  margin-left: 500px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.img_container {
+  display: flex;
+  display: inline-block;
+  margin-left: 40px;
+}
+
+h2 {
+  font-family: Poppins;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 48px;
+  text-align: left;
+}
+
+.img_container small {
+  color: #979797;
+}
+
+.Hotels small {
+  font-size: 20.6px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #979797;
+}
+
+.rating {
+  margin-left: 100px;
+}
+
+.Hotels {
+  display: flex;
+  display: inline-block;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.hr {
+  display: flex;
+}
+
+.t_a {
+  width: 664px;
+  height: 380px;
+}
+
+.t_a h3 {
+  margin-left: 380px;
+  margin-top: -400px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 36px;
+  text-align: left;
+}
+
+.t_a p {
+  margin-left: 380px;
+  margin-top: -1px;
+  color: #979797;
+}
+
+.jpg {
+  margin-left: 380px;
+  display: inline-block;
+}
+
+.pr {
+  margin-left: 450px;
+  display: inline-block;
+}
+
+.tt {
+  display: flex;
+}
+
+.surfing h4 {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+}
+
+.act {
+  display: flex;
+  gap: 10px;
+  margin-left: 40px;
+}
+
+.about_us {
+  width: 548px;
+  height: 312px;
+  gap: 32px;
+  margin-left: 30px;
+  display: flex;
+}
+
+.about_us h1 {
+  margin-left: -10px;
+}
+
+.GR {
+  margin-left: 600px;
+}
+
+.info {
+  position: absolute;
+  margin-top: -150px;
+}
+
+footer {
+  width: 1918px;
+  height: 404px;
+  padding: 120px 0px 120px 0px;
+}
+
+footer p {
+  margin-left: 40px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #979797;
+}
+.ftt {
+  margin-left: 40px;
+  width: 354px;
+  height: 155px;
+  gap: 32px;
+}
+.father_div {
+  display: flex;
+  margin-left: 400px;
+  margin-top: -162px;
+}
+.father_div li {
+  list-style-type: none;
+
+  color: #979797;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+}
+
+.id {
+  margin-left: 950px;
+  margin-top: -12px;
+  line-height: 28px;
+}
+#www {
+  margin-top: -15px;
+  margin-left: 980px;
+}
+#qq {
+  width: 72px;
+  height: 72px;
+  padding: 24px;
+  gap: 8px;
+  border-radius: 12px;
+  background-color: #7b61ff;
+  margin-left: 1180px;
+  margin-top: -70px;
+  position: absolute;
+  cursor: pointer;
+  /* align-items: center; */
+}
